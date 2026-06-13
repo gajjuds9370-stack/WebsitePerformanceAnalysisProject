@@ -1,4 +1,5 @@
 🌐 Website Performance Analysis
+
 📌 Project Overview
 
 This project focuses on analyzing website performance data to uncover user behavior patterns, traffic trends, and engagement insights. Using a dataset containing 3000+ records, I performed Exploratory Data Analysis (EDA) and created visualizations to answer real-world business questions related to website traffic and marketing channel effectiveness.
@@ -14,6 +15,7 @@ Peak traffic hours
 Correlation between traffic and engagement metrics
 
 📊 Dataset Features
+
 Column	Description
 Channel Group	Traffic acquisition source
 Date	Session date
@@ -29,6 +31,7 @@ Event Count	Total events generated
 Non-Engaged	Non-engaged sessions
 
 🔍 Business Questions Solved
+
 1. Traffic Trend Analysis
 How do users and sessions change over time?
 Are there any seasonal or daily traffic patterns?
@@ -47,6 +50,7 @@ At what hours does each channel drive maximum traffic?
 Is there a relationship between website traffic and engagement rate?
 
 🛠️ Technologies Used
+
 Python
 Pandas
 NumPy
@@ -55,6 +59,7 @@ Seaborn
 Jupyter Notebook
 
 📈 Key Insights
+
 Identified the best-performing traffic channels.
 Compared engagement quality across marketing sources.
 Discovered peak activity hours for user acquisition.
@@ -62,6 +67,7 @@ Evaluated the relationship between traffic volume and user engagement.
 Generated actionable insights for improving website performance.
 
 📂 Project Structure
+
 Website-Performance-Analysis/
 │
 ├── Data/
@@ -79,12 +85,14 @@ Website-Performance-Analysis/
 └── requirements.txt
 
 🚀 Future Improvements
+
 Build an interactive Power BI Dashboard
 Create a Streamlit Web Application
 Implement predictive analytics for traffic forecasting
 Add anomaly detection for traffic spikes and drops
 
 👨‍💻 Author
+
 Ganpat Chavan
 MCA (Data Science) | NIT Patna
 Aspiring Data Analyst & Data Scientist
