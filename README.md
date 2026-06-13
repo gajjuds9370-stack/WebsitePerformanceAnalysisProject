@@ -12,6 +12,7 @@ User engagement behavior
 Performance of different marketing channels
 Peak traffic hours
 Correlation between traffic and engagement metrics
+
 📊 Dataset Features
 Column	Description
 Channel Group	Traffic acquisition source
@@ -26,6 +27,7 @@ Events per Session	Average events generated per session
 Engagement Rate	Percentage of engaged sessions
 Event Count	Total events generated
 Non-Engaged	Non-engaged sessions
+
 🔍 Business Questions Solved
 1. Traffic Trend Analysis
 How do users and sessions change over time?
@@ -43,6 +45,7 @@ Which channels have the highest non-engaged sessions?
 At what hours does each channel drive maximum traffic?
 6. Correlation Analysis
 Is there a relationship between website traffic and engagement rate?
+
 🛠️ Technologies Used
 Python
 Pandas
@@ -50,12 +53,14 @@ NumPy
 Matplotlib
 Seaborn
 Jupyter Notebook
+
 📈 Key Insights
 Identified the best-performing traffic channels.
 Compared engagement quality across marketing sources.
 Discovered peak activity hours for user acquisition.
 Evaluated the relationship between traffic volume and user engagement.
 Generated actionable insights for improving website performance.
+
 📂 Project Structure
 Website-Performance-Analysis/
 │
@@ -72,13 +77,14 @@ Website-Performance-Analysis/
 │
 ├── README.md
 └── requirements.txt
+
 🚀 Future Improvements
 Build an interactive Power BI Dashboard
 Create a Streamlit Web Application
 Implement predictive analytics for traffic forecasting
 Add anomaly detection for traffic spikes and drops
-👨‍💻 Author
 
+👨‍💻 Author
 Ganpat Chavan
 MCA (Data Science) | NIT Patna
 Aspiring Data Analyst & Data Scientist
